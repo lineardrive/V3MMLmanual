@@ -3,8 +3,8 @@
 本リポジトリは、**V3MML（mac用アプリ）** に関する  
 公式／準公式ドキュメントを管理・公開するためのものです。
 
-- PDF 版（正式配布物）
 - Web 版（Markdown / GitHub Pages）
+- PDF 版
 - 将来の改訂・校正履歴
 
 を一元的に管理することを目的としています。
@@ -13,21 +13,23 @@
 
 ## 📘 ドキュメント一覧
 
-### PDF 版（正式配布）
+### Web 版
+- Markdown 版
+  - [Ｖ３ＭＭＬ説明書](docs/index.md)
+- html 版  
+  - (html版リンク)<!-- https://＜ユーザー名＞.github.io/＜リポジトリ名＞/ -->
+
+※ Web 版は内容確認・校正・検索性向上を目的とした補助資料です。
+
+---
+
+### PDF 版
 - **V3MML Instruction Manual**
   - Version: **1.28**
   - ファイル:  
     - [`pdf/v3mml_inst_v128.pdf`](pdf/v3mml_inst_v128.pdf)
 
 ※ PDF は「確定版ドキュメント」として扱います。
-
----
-
-### Web 版（閲覧・校正用）
-- GitHub Pages（Markdown 版）  
-  - (html版リンク)<!-- https://＜ユーザー名＞.github.io/＜リポジトリ名＞/ -->
-
-※ Web 版は内容確認・校正・検索性向上を目的とした補助資料です。
 
 ---
 
