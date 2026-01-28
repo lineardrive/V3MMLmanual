@@ -15,9 +15,9 @@
 
 ### Web 版
 - Markdown 版
-  - [Ｖ３ＭＭＬ説明書](docs/index.md)
+  - [Ｖ３ＭＭＬ説明書：docs/index.md](docs/index.md)
 - html 版  
-  - (html版リンク)<!-- https://＜ユーザー名＞.github.io/＜リポジトリ名＞/ -->
+  - [Ｖ３ＭＭＬ説明書：https://lineardrive.github.io/V3MMLmanual/](https://lineardrive.github.io/V3MMLmanual/)
 
 ※ Web 版は内容確認・校正・検索性向上を目的とした補助資料です。
 
