@@ -1,9 +1,8 @@
-
 ---
-title: Ｖ３ＭＭＬ説明書
+title: V3MML instructions
 ---
-
 # Ｖ３ＭＭＬ説明書 v1.28
+V3MML instructions: author: Akira SUZUKI
 
 ## 目次
 
