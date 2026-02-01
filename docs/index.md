@@ -7,7 +7,6 @@ V3MML instructions: author: Akira SUZUKI
 ## 目次
 
 ### 1. 基本情報
-- [1. 基本情報](ch01/1_0.md)
 - [1.1 特徴](ch01/1_1.md)
 - [1.2 基本的な使い方](ch01/1_2.md)
 - [1.3 トラック定義](ch01/1_3.md)
@@ -29,6 +28,16 @@ V3MML instructions: author: Akira SUZUKI
 - [2.12 `> <`：相対オクターブ](ch02/2_12.md)
 - [2.13 `ps[1]`：ピッチスケール](ch02/2_13n14.md)
 - [2.14 `#MB:PITCH_SCALE`：ピッチスケール定義](ch02/2_13n14.md)
+- [2.14.1 `type=12_TET` のとき（１２平均律）](ch02/2_14_1.md)
+- [2.14.2 `type=12_TET_trunc` のとき（１２平均律）](ch02/2_14_2.md)
+- [2.14.3 `type=f_number` のとき（F-Number）](ch02/2_14_3.md)
+- [2.14.4 `type=f_number_t` のとき（F-Number）](ch02/2_14_4.md)
+- [2.14.5 `type=divrate_octavelast` のとき（PSG分周比）](ch02/2_14_5.md)
+- [2.14.6 `type=divrate_octavefirst` のとき（PSG分周比）](ch02/2_14_6.md)
+- [2.14.7 `type=divrate_fullkey` のとき（PSG分周比）](ch02/2_14_7.md)
+- [2.14.8 `type=steprate_mode0` のとき（WSGステップレート）](ch02/2_14_8.md)
+- [2.14.9 `type=steprate_mode1` のとき（WSGステップレート）](ch02/2_14_9n10.md)
+- [2.14.10 `type=steprate_mode2` のとき（WSGステップレート）](ch02/2_14_9n10.md)
 - [2.15 `ns[1]`：ノートシフト](ch02/2_15.md)
 - [2.16 `nt[1]`：ノートトランス](ch02/2_16.md)
 - [2.17 `@d[1]`：デチューン](ch02/2_17.md)
