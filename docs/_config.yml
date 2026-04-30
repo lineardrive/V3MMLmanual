@@ -1,7 +1,7 @@
 title: "V3MML manual"
+theme: minima
 defaults:
   - scope:
       path: ""
     values:
       layout: "default"
-
