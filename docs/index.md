@@ -187,8 +187,8 @@ title: V3MML Manual; author: Akira SUZUKI;
 
 ### 8. ＬＦＯ関連
 
-- [8.1 `@loc[str],[1]`：ＬＦＯオプション CLOCK](ch08/8_1.md)
-- [8.2 `@lor[str],[1]`：ＬＦＯオプション RESOLUTION](ch08/8_2.md)
+- [8.1 `@loc[str],[1]`：ＬＦＯオプション CLOCK](ch08/8_1n2.md)
+- [8.2 `@lor[str],[1]`：ＬＦＯオプション RESOLUTION](ch08/8_1n2.md)
 - [8.3 `@lp[1]`：ピッチＬＦＯ](ch08/8_3.md)
 - [8.4 `#MB:LFO_P`：ピッチＬＦＯ定義](ch08/8_4.md)
 - [8.5 `@la[1]`：音量ＬＦＯ](ch08/8_5.md)
