@@ -4,7 +4,7 @@ author: "Akira SUZUKI"
 lang: ja-JP
 ---
 
-# Ｖ３ＭＭＬ説明書 v2.01
+# Ｖ３ＭＭＬ説明書 v2.02
 title: V3MML Manual; author: Akira SUZUKI;
 
 ## 目次
@@ -99,7 +99,7 @@ title: V3MML Manual; author: Akira SUZUKI;
 - [5.8.8 機能名：`lfo_table`：ＬＦＯテーブル処理モード](ch05/5_8_8.md)
 - [5.8.9 機能名：`damper_rate`：ダンパー初期設定](ch05/5_8_9.md)
 - [5.8.10 機能名：`fms_master`：@@"fms"用マスタークロック設定](ch05/5_8_10.md)
-- [5.8.11 機能名：`fms_hlfo`：@@"fms"用ＨＬＦＯ速度調整](ch05/5_8_11.md)
+- [5.8.11 機能名：`fms_hlfo`：@@"fms"用ＨＬＦＯ調整](ch05/5_8_11.md)
 - [5.8.12 機能名：`wvm_over_sampling`：オーバーサンプリング設定](ch05/5_8_12.md)
 - [5.8.13 機能名：`nzw_noise`：@@"nzw"用ベースサイクル設定](ch05/5_8_13.md)
 - [5.8.14 機能名：`nzp_noise`：@@"nzp"用ベースサイクル設定](ch05/5_8_14.md)
