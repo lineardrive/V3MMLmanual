@@ -4,7 +4,7 @@ author: "Akira SUZUKI"
 lang: ja-JP
 ---
 
-# Ｖ３ＭＭＬ説明書 v2.04
+# Ｖ３ＭＭＬ説明書 v2.05
 title: V3MML Manual; author: Akira SUZUKI;
 
 ## 目次
@@ -175,6 +175,7 @@ title: V3MML Manual; author: Akira SUZUKI;
 - [6.57 ＦＭ音源２オペレータモードの接続形態](ch06/6_57.md)
 - [6.58 `#MB:LOAD_SAMPLING`：サンプリングファイルの読み込み](ch06/6_58.md)
 - [6.59 読み込むバイナリファイルのフォーマット](ch06/6_59.md)
+- [6.60 バイナリファイルの作成（バインダースクリプト）](ch06/6_60.md)
 
 ### 7. エンベロープ関連
 
