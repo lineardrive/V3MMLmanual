@@ -234,8 +234,8 @@ title: V3MML Manual; author: Akira SUZUKI;
 - [10.6 `#MB:KEYEVENT_CODE`：@kc用キーイベント定義](ch10/10_5n6.md)
 - [10.7 `@kl[1]`：キーイベント（音長モード）](ch10/10_7n8.md)
 - [10.8 `#MB:KEYEVENT_LEN`：@kl用キーイベント定義](ch10/10_7n8.md)
-- [10.9 `@tl[1]` / `@tlz`：音色の層](ch10/10_9n10.md)
-- [10.10 `#MB:TONE_LAYER`：@tl用音色の層定義](ch10/10_9n10.md)
+- [10.9 `@tl[1]` / `@tlz`：音色のレイヤー](ch10/10_9n10.md)
+- [10.10 `#MB:TONE_LAYER`：@tl用音色のレイヤー定義](ch10/10_9n10.md)
 
 ### 11. 付加情報関連
 
