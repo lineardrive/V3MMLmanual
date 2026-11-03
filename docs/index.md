@@ -84,6 +84,7 @@ title: V3MML Manual; author: Akira SUZUKI;
 - [4.14 `@fi[1],[2]`：フェードイン](ch04/4_14.md)
 - [4.15 `@fg[1],[2]`：フェードゲイン](ch04/4_15.md)
 - [4.16 `vg[1],[2]`：ボリュームグライド](ch04/4_16.md)
+- [4.17 `vel[1]`：ベロシティ](ch04/4_17.md)
 
 ### 5. 制御関連
 
@@ -233,6 +234,8 @@ title: V3MML Manual; author: Akira SUZUKI;
 - [10.6 `#MB:KEYEVENT_CODE`：@kc用キーイベント定義](ch10/10_5n6.md)
 - [10.7 `@kl[1]`：キーイベント（音長モード）](ch10/10_7n8.md)
 - [10.8 `#MB:KEYEVENT_LEN`：@kl用キーイベント定義](ch10/10_7n8.md)
+- [10.9 `@tl[1]` / `@tlz`：音色の層](ch10/10_9n10.md)
+- [10.10 `#MB:TONE_LAYER`：@tl用音色の層定義](ch10/10_9n10.md)
 
 ### 11. 付加情報関連
 
