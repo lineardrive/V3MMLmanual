@@ -112,6 +112,7 @@ title: V3MML Manual; author: Akira SUZUKI;
 - [5.8.14 機能名：`nzp_noise`：@@"nzp"用ベースサイクル設定](ch05/5_8_14.md)
 - [5.8.15 機能名：`pls_noise`：@@"pls"用ノイズベースサイクル設定](ch05/5_8_15.md)
 - [5.8.16 機能名：`nzc_noise`：@@"nzc"用の変位更新間隔の倍率調整](ch05/5_8_16.md)
+- [5.8.17 機能名：`velocity`：ベロシティの最大値](ch05/5_8_17.md)
 - [5.9 `#ML:INCLUDE`：外部テキスト読み込み機能](ch05/5_9.md)
 - [5.10 `#ML:REPORT_TICKS`：総TICKカウント数の表示](ch05/5_10.md)
 - [5.11 `!`：ＭＭＬステータス表示関係](ch05/5_11.md)
