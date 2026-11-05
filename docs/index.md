@@ -197,6 +197,7 @@ title: V3MML Manual; author: Akira SUZUKI;
 - [7.10 `@ep[1]`：ピッチエンベロープ](ch07/7_10n11.md)
 - [7.11 `#MB:ENV_P`：ピッチエンベロープ定義](ch07/7_10n11.md)
 - [7.12 `@epz`：ピッチエンベロープ停止](ch07/7_12.md)
+- [7.13 `#MB:ENVTBL_TIME`：エンベロープの時間の表](ch07/7_13.md)
 
 ### 8. ＬＦＯ関連
 
