@@ -224,6 +224,7 @@ title: V3MML Manual; author: Akira SUZUKI;
 - [8.19 `#MB:LFOTBL_REL`：ＬＦＯテーブル定義(REL)](ch08/8_19.md)
 - [8.20 ＬＦＯ波形グラフ（１）（@lp/@lq/@lb/LFO_FD）](ch08/8_20.md)
 - [8.21 ＬＦＯ波形グラフ（２）（@la）](ch08/8_21.md)
+- [8.22 `wh[1]`：モジュレーションホイール](ch08/8_22.md)
 
 ### 9. 発音数関連
 
