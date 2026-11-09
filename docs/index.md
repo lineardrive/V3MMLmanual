@@ -4,7 +4,7 @@ author: "Akira SUZUKI"
 lang: ja-JP
 ---
 
-# Ｖ３ＭＭＬ説明書 v2.08
+# Ｖ３ＭＭＬ説明書 v2.10
 title: V3MML Manual; author: Akira SUZUKI;
 
 ## 目次
